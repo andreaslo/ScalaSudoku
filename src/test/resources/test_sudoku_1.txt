@@ -1,0 +1,11 @@
+8xx 4x1 xx7
+64x 2x3 8xx
+2x5 9xx xxx
+
+13x 7xx 6xx
+x5x x3x x1x
+xx8 xx4 x35
+
+xxx xx6 9x4
+xx2 3x7 x81
+5xx 1x2 xx6
