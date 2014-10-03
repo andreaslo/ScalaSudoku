@@ -22,10 +22,13 @@ The program reads a sudoku from an input file, solves it and prints the output t
 
 Digits from the input file are read as sudoku digits, zeros and characters are interpreted as missing fields, whitespaces and special characters are ignored. Thus valid input files are for example:
 
+```
 040723000000009003802050079400205960500060004029804005780040102300500000000178030
+```
 
 or
 
+```
 010380050
 030500100
 006041090
@@ -35,9 +38,11 @@ or
 060490200
 008007030
 090032060
+```
 
 or
 
+```
 010|380|050
 030|500|100
 006|041|090
@@ -49,3 +54,4 @@ or
 060|490|200
 008|007|030
 090|032|060
+```
